@@ -1,7 +1,7 @@
 # AND
 (Aaron and Nick's Distributor)
 
-### We are creating an industry leading music distribution platform. Delivering maximum value at reasonable costs without limits.
+### We are creating an industry leading music distribution platform. Delivering maximum value at reasonable costs without unnecessary limits.
 
 <!--
 
