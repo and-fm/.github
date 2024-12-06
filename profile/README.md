@@ -2,7 +2,10 @@
 
 (Aaron and Nick's Distributor)
 
-### An industry leading music distribution platform.
+### we're a non-profit, and we're building a better music business
+
+we open source certain components of our project in this org  
+you're welcome to fork/contribute, please follow etiquette and heed the licenses
 
 <!--
 
