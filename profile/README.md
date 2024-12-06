@@ -1,7 +1,5 @@
 # and.fm
 
-(Aaron and Nick's Distributor)
-
 ### we're a non-profit, and we're building a better music business
 
 we open source certain components of our project in this org  
